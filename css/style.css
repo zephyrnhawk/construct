@@ -56,3 +56,13 @@ nav ul li a {
         -ms-transition: all 0.2s ease-out;
         -o-transition: all 0.2s ease-out;
         transition: all 0.2s ease-out;
+}
+nav ul li #active {
+        color: #111;
+}
+
+nav ul li a:hover {
+        text-shadow: 0 0 .5em #B5B5B5;
+        color: #F1F1F1;
+        text-decoration: none;
+}
