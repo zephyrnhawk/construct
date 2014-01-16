@@ -12,15 +12,15 @@ html
   background-color:#FFFFFF;
   height:100%;
   width:800px;
-  margin-left:auto%;
-  margin-right:auto%;
+  margin-left:auto;
+  margin-right:auto;
   text-align:left;
 }
 
 #top
-{
+
   text-size:2.2em;
   text-align:left;
-  margin-left:auto%;
-  margin-right:auto%;
+  margin-left:2%;
+  margin-right:2%;
 }
