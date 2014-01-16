@@ -62,7 +62,7 @@ nav ul li #active {
 }
 
 nav ul li a:hover {
-        text-shadow: 0 0 .5em 333;
+        text-shadow: 0 0 .2em 333;
         color: #000000;
         text-decoration: none;
 }
