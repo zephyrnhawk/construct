@@ -6,7 +6,9 @@ html
 
 #outer
 {
-  box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+  -webkit-box-shadow:1px 1px 5px 2px rgba(50, 50, 50, 1);
+  -moz-box-shadow:1px 1px 5px 2px rgba(50, 50, 50, 1);
+  box-shadow:1px 1px 5px 2px rgba(50, 50, 50, 1);
   background-color:#FFFFFF;
   height:100%;
   width:800px;
