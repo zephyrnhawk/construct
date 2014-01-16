@@ -32,3 +32,27 @@ nav
   text-align: right;
   padding-left: 0%;
 }
+
+nav ul {
+        display: inline;
+        padding-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+}
+
+nav ul li {
+        text-align: center;
+        display: inline;
+}
+
+nav ul li a {
+        background-color: #FFFFFF; 
+        color: #000000;
+        margin-left: 2%;
+        margin-right: 1%;
+        text-decoration: none;
+        -webkit-transition: all 0.2s ease-out;
+        -moz-transition: all 0.2s ease-out;
+        -ms-transition: all 0.2s ease-out;
+        -o-transition: all 0.2s ease-out;
+        transition: all 0.2s ease-out;
