@@ -1,11 +1,11 @@
 #outer
 {
-  background-color:#00ff00;
+  background-color:#e7e7e7;
   text-align:center;
-  color:red;
 }
 
 #inner
 {
-  color:blue;
+  background-color:#FFFFFF;
+  width:800px;
 }
